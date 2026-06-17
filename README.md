@@ -9,6 +9,7 @@ Sou cirurgiã-dentista em transição de carreita para **Cibersegurança**
 
 # Repositórios em Destaque | Descrição
 > Mulher-Digital (Junior Achievement Brasil & Cisco NetAcademy) - Anotações e labs
+
 > Cybersecurity-Journey - Anotações e labs dos meus estudos
 
 # Conecte-se a mim
