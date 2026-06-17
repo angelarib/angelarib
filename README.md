@@ -11,9 +11,8 @@ Sou cirurgiã-dentista em transição de carreita para **Cibersegurança**
 > Tecnólogo em Análise e Desenvolvimento de Sistemas
 
 # Repositórios em Destaque | Descrição
-> Mulher-Digital (Junior Achievement Brasil & Cisco NetAcademy) - Anotações e labs
 
-> Cybersecurity-Journey - Anotações e labs dos meus estudos
+> Cybersecurity-Journey - Anotações e labs dos meus estudos nos programas Mulher Digital e Hackers do Bem
 
 # Conecte-se a mim
 > [linkedIn] www.linkedin.com/in/angelarib
