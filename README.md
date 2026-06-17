@@ -1,16 +1,18 @@
-## Hi there 👋
+Olá, sou Ângela. 👋
+Sou cirurgiã-dentista em transição de carreita para **Cibersegurança**
 
-<!--
-**angelarib/angelarib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# O que estou aprendendo agora 
+> Mulher Digital - Junior Achievement Brasil & Cisco NetAcademy: Em andamento
+> Hackers do Bem - Senai SP: Em andamento
+> SOC Level 1 - Try Hack Me: Em andamento
+> Tecnólogo em Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+# Repositórios em Destaque | Descrição
+> Mulher-Digital (Junior Achievement Brasil & Cisco NetAcademy) - Anotações e labs
+> Cybersecurity-Journey - Anotações e labs dos meus estudos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Conecte-se a mim
+> [linkedIn] www.linkedin.com/in/angelarib
+
+-------------
+A segurança de dados é tão crítica quanto qualquer procedimento clínico.
