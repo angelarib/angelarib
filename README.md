@@ -3,8 +3,11 @@ Sou cirurgiã-dentista em transição de carreita para **Cibersegurança**
 
 # O que estou aprendendo agora 
 > Mulher Digital - Junior Achievement Brasil & Cisco NetAcademy: Em andamento
+
 > Hackers do Bem - Senai SP: Em andamento
+
 > SOC Level 1 - Try Hack Me: Em andamento
+
 > Tecnólogo em Análise e Desenvolvimento de Sistemas
 
 # Repositórios em Destaque | Descrição
