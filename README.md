@@ -1,5 +1,5 @@
 Olá, sou Ângela. 👋
-Sou cirurgiã-dentista em transição de carreita para **Cibersegurança**
+Sou cirurgiã-dentista em transição de carreira para **Cibersegurança**
 
 # O que estou aprendendo agora 
 > Mulher Digital - Junior Achievement Brasil & Cisco NetAcademy: Em andamento
